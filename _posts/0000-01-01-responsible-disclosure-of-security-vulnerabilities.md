@@ -53,3 +53,4 @@ Here are people who have responsibly disclosed vulnerabilities in the past:
  - [Maulik Kotak](https://twitter.com/maulikkotakstar)
  - [Rishiraj Sharma](https://twitter.com/ehrishiraj)
  - [Shalini Agarwal](https://www.facebook.com/shalu.agarwal.3975)
+ - [Madu Akula](https://www.facebook.com/madu.akula) 
